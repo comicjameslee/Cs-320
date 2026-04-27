@@ -1,1 +1,3 @@
 # Cs-320
+
+Overall this class has shown me many different ways to test and interact with my code. From is it functional and most optimal to is what the client wants/needs  to sometimes inbetween.I found that by first examining and reading my clients wants for the project and then dividing them into smaller individual chunks help me create these massive projects for my customer. I then go on using safe and effective programming techniques to avoid the potential mistakes and perform safe programs to be the best way to create my work. I then test and test and keep testing until I am satisfied and confident with my work before finally giving it to the client which I think is a system that works well for me.
